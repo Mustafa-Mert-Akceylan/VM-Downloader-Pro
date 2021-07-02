@@ -5,7 +5,7 @@
 Bu Program İle Youtube Üzerinden MP3 Şarkı İndirebilir Veya MP4 Şeklinde Video İndirebilirisniz
 
 ## Bilinen Buglar
-Videoyu 144p İndiriyor :(
+Videoyu 144p İndiriyor :( (Bu Sorunu Çözebilicek Varsa Lütfen Pull Request Atsın)
 
 ## About
 With This Program, You Can Download MP3 Songs From Youtube Or Download Videos In MP4 Format
